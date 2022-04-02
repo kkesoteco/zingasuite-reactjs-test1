@@ -1,2 +1,2 @@
-# zingasuite-reactjs-test1
+# zingasuite-reactjs-test
 Created with CodeSandbox
